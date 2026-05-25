@@ -31,4 +31,5 @@ SiftingIO helps teams build products that need reliable market data, including:
 - Documentation: https://sifting.io/docs
 - Pricing: https://sifting.io/pricing
 - Blog: https://sifting.io/blog
+- Postman Collection: https://www.postman.com/siftingio/siftingio-market-data-api
 - Status: https://siftingio.instatus.com/
